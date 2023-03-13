@@ -1,5 +1,5 @@
 {
-  "name": "rexijs-mongodb",
+  "name": "rexijs-redis",
   "description": "A module using redis into Rexijs library",
   "version": "1.0.0",
   "dependencies": {
