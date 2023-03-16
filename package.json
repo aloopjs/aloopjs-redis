@@ -1,11 +1,11 @@
 {
-  "name": "rexijs-redis",
-  "description": "A module using redis into Rexijs library",
+  "name": "aloopjs-redis",
+  "description": "A module using redis into aloopjs library",
   "version": "1.0.0",
   "dependencies": {
     "redis": "^4.6.5"
   },
   "keywords": [
-    "redis", "rexijs"
+    "redis", "aloopjs"
   ]
 }
