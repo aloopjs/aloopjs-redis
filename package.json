@@ -1,7 +1,7 @@
 {
   "name": "@aloopjs/redis",
   "description": "A module using redis into aloopjs library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "redis": "^4.6.5"
   },
